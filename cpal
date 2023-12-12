@@ -11,7 +11,7 @@ int isPalindrome(char str[]) {
         }
     }
 
-    return 1; // Palindrome
+    return 1; // Palindrom
 }
 
 int main() {
